@@ -29,6 +29,7 @@ Tối ưu hóa kỹ thuật, bài toán phi tuyến
 Cài đặt Python 3 và thư viện:
 
 pip install numpy matplotlib
+
 🧮 3. Hàm Sphere được tối ưu
 
 Hàm Sphere là một hàm benchmark đơn giản:
