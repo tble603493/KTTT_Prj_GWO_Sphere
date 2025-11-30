@@ -32,12 +32,16 @@ pip install numpy matplotlib
 🧮 3. Hàm Sphere được tối ưu
 
 Hàm Sphere là một hàm benchmark đơn giản:
-f(x)=i=1∑n​xi2​
+
+<img width="189" height="108" alt="image" src="https://github.com/user-attachments/assets/e8ad3325-d587-437f-9262-69a06aa2511c" />
+
+
 Đặc điểm:
 
 Có nghiệm tối ưu toàn cục tại x = (0,0,…,0)
 
 Là hàm lồi → dễ để kiểm tra khả năng hội tụ
+
 📈 4. Kết quả chạy thử
 
 Chương trình sẽ in ra:
